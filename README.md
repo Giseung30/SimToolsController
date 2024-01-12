@@ -36,5 +36,5 @@
     - **Slider** 컴포넌트로 조작
     
 <div align="center">
-    <img src="https://github.com/Giseung30/SimTools_Controller/assets/60832219/4300ac8e-2592-41e3-8808-a1bcea7500cf)"/>
+    <img width="50%" height="50%" src="https://github.com/Giseung30/SimTools_Controller/assets/60832219/4300ac8e-2592-41e3-8808-a1bcea7500cf)"/>
 </div>
